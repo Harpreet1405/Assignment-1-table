@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(17, 15, 19);
+    background-color: rgb(90, 83, 173);
 }
 table{
     height: 300px;
@@ -10,16 +10,16 @@ margin-left: 350px;
 }
 .Main{
     border: none;
-    background-color: rgb(17, 15, 19);
+    border-style: none;
+    
 }
 thead{
-    background-color: rgb(108, 70, 170);
+    background-color: rgb(53, 52, 52);
     color: antiquewhite;
 }
 tbody{
     text-align: center;
-    background-color: cornsilk;
-    color: black;
+    
 }
 h1{
     text-align: center;
