@@ -1,27 +1,34 @@
-body{
+body {
     background-color: rgb(90, 83, 173);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
-table{
+
+table {
     height: 300px;
     width: 800px;
     border-style: none;
-margin-left: 350px;
-    
+    border-collapse: collapse;
 }
-.Main{
+
+.Main {
     border: none;
-    border-style: none;
-    
 }
-thead{
+
+thead {
     background-color: rgb(53, 52, 52);
     color: antiquewhite;
 }
-tbody{
+
+tbody {
     text-align: center;
-    
 }
-h1{
+
+h1 {
     text-align: center;
     color: aliceblue;
 }
