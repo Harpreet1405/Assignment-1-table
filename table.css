@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(90, 83, 173);
+    background-color: rgb(195, 195, 201);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -8,13 +8,12 @@ body {
     margin: 0;
 }
 
-table {
+table {2
     height: 300px;
     width: 800px;
     border-style: none;
     border-collapse: collapse;
 }
-
 .Main {
     border: none;
 }
@@ -30,5 +29,5 @@ tbody {
 
 h1 {
     text-align: center;
-    color: aliceblue;
+    color: black;
 }
